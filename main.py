@@ -5,3 +5,6 @@ print("this is base code")
 print("this change is related to feature-rp-50001")
 
 print("Testing Jenkins pipeline - feature-rp-50001")
+
+def get_order_count():
+    return 2050
